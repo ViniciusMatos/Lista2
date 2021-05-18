@@ -17,6 +17,9 @@ public class Exercicio1 {
 		}
 		
 		System.out.println("Você Acertou! Parabéns! Entrada permitida");
+		
+		leitor.close();
 	}
+	
 
 }
